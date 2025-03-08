@@ -1,4 +1,4 @@
-# trainee / freelancer 
+#  aspiring business informatics specialist / freelancer 
 
 
 Hi, I’m Schoko, a versatile problem-solver with a broad skill set in software development and a passion for logical thinking. Whether it’s writing efficient code, designing complex data structures, or crafting creative solutions – I think on tracking challenges. 
