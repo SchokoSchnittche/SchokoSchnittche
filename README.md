@@ -41,8 +41,7 @@ I'm not sure what path I'm willing to go, so I try out as much as I can handle. 
 - PC + PS4
 
 ### Software 
-- a new appointment calendar for a local hospital
-- a database for a local store 
+- ... in progress... - 
 
   ## Let’s connect
 - … in progress … -
