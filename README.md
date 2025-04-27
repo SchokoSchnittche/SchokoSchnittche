@@ -44,7 +44,7 @@ We use the open Source device **FlipperZero** from @flipperzero-hardware
 - Exploring various radio communictaions standards such as NFC, SUB-GHz and 125kHz Radio
 
 
-As well as the RaspberryPi5 from @» Company « 
+As well as the RaspberryPi5 from @RaspberryPI 
 - Cybersecurity
 - Performing penetration tests with Kali Linux
 - Bruteforcing Login passwords on Windows 7 through 10 using the Flipper Zero’s inbuilt HID emulation
