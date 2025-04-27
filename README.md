@@ -35,7 +35,7 @@ I'm not sure what path I'm willing to go, so I try out as much as I can handle. 
 ## Projects
 This is a overview of all my projects made with others.
 
-## Teamproject X
+### Teamproject X
 <p align = "center">
 This Teamproject » X « was created by @SchokoSchnittche and @Bernhard-Jahn,as a collaboration of  two students from germany trying to improve there skillset for there upcomming buissness careers. 
 <p>
