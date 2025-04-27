@@ -33,15 +33,7 @@ I'm not sure what path I'm willing to go, so I try out as much as I can handle. 
 </p>
 
 ## Projects
-
-### Hardware
-- FlipperZero
-- RaspberryPi 5
-- RaspberryPi Zero 2 W
-- PC + PS4
-
-### Software 
-- ... in progress... - 
+- … in progress … -
 
   ## Let’s connect
 - … in progress … -
