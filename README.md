@@ -33,8 +33,30 @@ I'm not sure what path I'm willing to go, so I try out as much as I can handle. 
 </p>
 
 ## Projects
-- … in progress … -
+This is a overview of all my projects made with others.
 
+## Teamproject X
+<p align = "center">
+This Teamproject » X « was created by @SchokoSchnittche and @Bernhard-Jahn,as a collaboration of  two students from germany trying to improve there skillset for there upcomming buissness careers. 
+<p>
+
+We use the open Source device **FlipperZero** from @flipperzero-hardware
+- Exploring various radio communictaions standards such as NFC, SUB-GHz and 125kHz Radio
+
+
+As well as the RaspberryPi5 from @» Company « 
+- Cybersecurity
+- Performing penetration tests with Kali Linux
+- Bruteforcing Login passwords on Windows 7 through 10 using the Flipper Zero’s inbuilt HID emulation
+
+
+- Webdesign
+ - Shared Wesbites for hosting respective portfolios and potential future web-based projects
+
+<p align = "center">
+We use Phyton and Java as coding languages. To document our projects we use English as comments in our source code. We try to provide a markdown or txt. File for a detailed documentation. 
+<p>
+ 
   ## Let’s connect
 - … in progress … -
 
