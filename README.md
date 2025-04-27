@@ -34,7 +34,6 @@ I'm not sure what path I'm willing to go, so I try out as much as I can handle. 
 </p>
 
 ## Projects
-This is a overview of all my projects made with others.
 
 ### Teamproject X
 <p align = "center">
