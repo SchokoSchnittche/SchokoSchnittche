@@ -48,7 +48,6 @@ As well as the **RaspberryPi5** from @RaspberryPI
 - Cybersecurity
 - Performing penetration tests with Kali Linux
 - Bruteforcing Login passwords on Windows 7 through 10 using the Flipper Zero’s inbuilt HID emulation
-[![My Skills](https://skillicons.dev/icons?i=raspberrypi, )](https://skillicons.dev)
 
 #### Webdesign
  - Shared Wesbites for hosting respective portfolios and potential future web-based projects
